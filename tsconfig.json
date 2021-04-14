@@ -1,10 +1,6 @@
 {
   "compilerOptions": {
-    "lib": [
-      "dom",
-      "dom.Iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.Iterable", "esnext"],
     "allowJs": true,
     "jsx": "react-jsx",
     "noEmit": true,
@@ -20,7 +16,5 @@
     "noFallthroughCasesInSwitch": true,
     "module": "esnext"
   },
-  "include": [
-    "src"
-  ]
+  "include": ["src"]
 }
